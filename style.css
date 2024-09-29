@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: block;
+    height: 100px;
+}
+.section-one__head{
+    padding: 20px;
+}
+.section-one__sub{
+    margin-top: -16px;
+    color: aqua;
+}
+.section-two{
+    display: inline-block;
+    margin-top: 30px;
+}
+.section-two__img1,.section-two__img2,.section-two__img3,.section-two__img4{
+    display: inline-block;
+    text-align: center;
+    width: 180px;
+    height: 322px;
+    border: solid black 2px;
+
+    
+}
+
+.section-three{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+.section-three__msg{
+    display: inline-block;
+    background-color: yellow;
+    color:black;
+    text-align: center;
+    width: 300px;
+}
+.section-two__butn1,.section-two__butn2,.section-two__butn3,.section-two__butn4{
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
